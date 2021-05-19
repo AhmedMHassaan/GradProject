@@ -1,6 +1,6 @@
 
 [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)
-[![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/icons8-github.svg)](https://github.com/AhmedMHassaan/GradProject/)
+<!-- [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/icons8-github.svg)](https://github.com/AhmedMHassaan/GradProject/) -->
 
 ## By:
 * [Ahmed Mohamed Hassaan](https://www.facebook.com/AhmedMHassaan12)
