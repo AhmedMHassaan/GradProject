@@ -131,7 +131,7 @@
  
  ### Conacts :
  <a href="https://www.facebook.com/AhmedMHassaan12/">
-  <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg" width="20" height="20" alt = "Facebook Page" />
+  <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg" width="40" height="40" alt = "Facebook Page" />
    </a>
   
   
@@ -158,7 +158,7 @@
  
  
 <a href="https://wuzzuf.net/me/ahmedmhassaan" target="_blank">
-   <img src="https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg" width="40" height="40" alt = "Wazzuf Page" />
+   <img src="https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg" width="60" height="60" alt = "Wazzuf Page" />
 </a>
  
  
