@@ -1,5 +1,5 @@
 
-## Introducion
+### Introducion
 <b>Candle App</b> is project for making reading easier by doing some automation Procrss Like:<br>
 * Generating Mind Map for texts and books
 * Summarize text and books
@@ -9,7 +9,7 @@
 [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)
 <!-- [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/icons8-github.svg)](https://github.com/AhmedMHassaan/GradProject/) -->
 
-## By:
+### By:
 * [Ahmed Mohamed Hassaan](https://www.facebook.com/AhmedMHassaan12)
 * [Abdelrhman Ahmed Ali ](https://www.facebook.com/profile.php?id=100021245554163)
 * [Mohammed Allamy ](https://www.facebook.com/Alallamy9/)
@@ -18,14 +18,17 @@
 
 <hr />
 
-## REVISION By:
+### REVISION By:
 * [Dr/ Mohammed Atta Khafagy](https://www.facebook.com/MAOAhmedKhfagy)
 * [Dr/ Safynaz Abdelfattah  ](https://www.facebook.com/safynaz.elfattah)
 
 
 ### How To Use:
-  [![Splash Page]https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg)](https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg)
-  
+ 
+ [![Splash Page ](https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg) =50x50]()
+ 
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg" width="50" height="50" />
+ 
 
 ### Project Structue :
 - `Android App` For End User 
