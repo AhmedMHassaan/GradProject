@@ -134,19 +134,45 @@
  
   
   
- <a href="https://www.linkedin.com/in/ahmedmhassaan/">
+ <a href="https://www.linkedin.com/in/ahmedmhassaan/" target="_blank">
          <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/linkedin.svg" width="20" height="20" alt = "LinkedIn Page" />
       </a>
-                               
+                             
+ 
+ 
+  
+  [![Ahmed  Page]()](https://www.facebook.com/AhmedMHassaan12/)]()
+ 
+ 
+<a href="https://www.instagram.com/ahmedmohamedhassaan/" target="_blank">
+         <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/instagram.svg" width="20" height="20" alt = "Instgram Page" />
+      </a>
+ 
+ 
+ 
+ 
+ <a href="https://mostaql.com/u/aabojana09" target="_blank">
+         <img src="https://mostaql.hsoubcdn.com/public/assets/cards/facebook@2x.png" width="20" height="20" alt = "Mostaql Page" />
+      </a>
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ <a href="https://wuzzuf.net/me/ahmedmhassaan" target="_blank">
+         <img src="https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg" width="20" height="20" alt = "Wazzuf Page" />
+      </a>
+ 
+ 
+ <a href="https://drive.google.com/file/d/1WBXmry_1V7pBeRsiUOO1M-wJ-nRthHb4/view?usp=sharing" target="_blank">
+         <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/curriculum.svg" width="20" height="20" alt = "Resume Page" />
+      </a>
+ 
 
  
-  [![Ahmed Instgram Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)](https://www.instagram.com/ahmedmohamedhassaan/)
  
-  [![Ahmed Mostaql Page](https://mostaql.hsoubcdn.com/public/assets/cards/facebook@2x.png/)](https://mostaql.com/u/aabojana09)
- 
-  [![Ahmed Wazzuf Page](https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg/)](https://wuzzuf.net/me/ahmedmhassaan)
- 
- [![Ahmed Resume Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/curriculum.svg)]( https://drive.google.com/file/d/1WBXmry_1V7pBeRsiUOO1M-wJ-nRthHb4/view?usp=sharing)
  
  
 
