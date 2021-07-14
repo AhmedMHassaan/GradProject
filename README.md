@@ -166,6 +166,10 @@
          <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/curriculum.svg" width="20" height="20" alt = "Resume Page" />
       </a>
  
+<a href="https://api.whatsapp.com/send?phone=201146906776&text=Ahmed%20Mohammed%20Hassaan%20Android%20Developer%20">
+ <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/whatsapp.svg" width="20" height="20" alt = "Resume Page" />
+ </a>
+ 
 
  
  
