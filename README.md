@@ -44,68 +44,68 @@
 ### How To Use:
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg" width="300" height="500" alt = "Splash Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg" width="300" height="600" alt = "Splash Screen" />
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/2.jpg" width="300" height="500" alt = "Splash Screen" />
- 
- 
- 
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/3.jpg" width="300" height="500" alt = "Splash Screen3" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/2.jpg" width="300" height="600" alt = "Splash Screen" />
  
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/4.jpg" width="300" height="500" alt = "Logo Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/3.jpg" width="300" height="600" alt = "Splash Screen3" />
  
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/5.jpg" width="300" height="500" alt = "ShowCase1" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/4.jpg" width="300" height="600" alt = "Logo Screen" />
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/6.jpg" width="300" height="500" alt = "ShowCase 2 Screen" />
+ 
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/5.jpg" width="300" height="600" alt = "ShowCase1" />
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/7.jpg" width="300" height="500" alt = "ShowCase 3 Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/6.jpg" width="300" height="600" alt = "ShowCase 2 Screen" />
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/8.jpg" width="300" height="500" alt = "ShowCase 4 Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/7.jpg" width="300" height="600" alt = "ShowCase 3 Screen" />
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/9.jpg" width="300" height="500" alt = "ShowCase 5 Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/8.jpg" width="300" height="600" alt = "ShowCase 4 Screen" />
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/10.jpg" width="300" height="500" alt = "ShowCase 6 Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/9.jpg" width="300" height="600" alt = "ShowCase 5 Screen" />
  
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/11.jpg" width="300" height="500" alt = "ShowCase 7 Screen" />
- 
-  <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505319.jpg" width="300" height="500" alt = "End Of ShowCase Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/10.jpg" width="300" height="600" alt = "ShowCase 6 Screen" />
  
  
-  <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/12.jpg" width="300" height="500" alt = "Editting Text Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/11.jpg" width="300" height="600" alt = "ShowCase 7 Screen" />
+ 
+  <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505319.jpg" width="300" height="600" alt = "End Of ShowCase Screen" />
  
  
-  <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505299.jpg" width="300" height="500" alt = "Alert To Results Screen" />
+  <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/12.jpg" width="300" height="600" alt = "Editting Text Screen" />
  
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/13.jpg" width="300" height="500" alt = "Results Screen" />
+ 
+  <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505299.jpg" width="300" height="600" alt = "Alert To Results Screen" />
+ 
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/13.jpg" width="300" height="600" alt = "Results Screen" />
  
 
   
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/14.jpg" width="300" height="500" alt = "Results2 Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/14.jpg" width="300" height="600" alt = "Results2 Screen" />
  
  
   
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505265.jpg" width="300" height="500" alt = "Mind Map Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505265.jpg" width="300" height="600" alt = "Mind Map Screen" />
  
  
   
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505274.jpg" width="300" height="500" alt = "Wordcloud Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505274.jpg" width="300" height="600" alt = "Wordcloud Screen" />
  
   
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505251.jpg" width="300" height="500" alt = "Save Result Permission Request Screen" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505251.jpg" width="300" height="600" alt = "Save Result Permission Request Screen" />
  
  
   
- <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505229.jpg" width="300" height="500" alt = "Results Saved" />
+ <img src="https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1624508505229.jpg" width="300" height="600" alt = "Results Saved" />
  
 
 
