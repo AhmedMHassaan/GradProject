@@ -8,7 +8,7 @@
 * [Documentation Files](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#last-updated-Files)
 * [Android Source Code](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#android-source-code)
 * [Download](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#download-app)
-* [Conacts](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#)
+* [Conacts](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#conacts)
 * [Liecene](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#)
 * [Introduction](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#introduction)
 
@@ -127,4 +127,25 @@
 
 ### Android Source Code :
 [Code](https://github.com/AhmedMHassaan/CandleApp)
+ 
+ 
+ ### Conacts :
+ [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)
+ 
+  [![Ahmed LinkedIn Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/linkedin.svg)](https://www.linkedin.com/in/ahmedmhassaan/)
+ 
+  [![Ahmed Instgram Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)](https://www.instagram.com/ahmedmohamedhassaan/)
+ 
+  [![Ahmed Mostaql Page](https://mostaql.hsoubcdn.com/public/assets/cards/facebook@2x.png/)](https://mostaql.com/u/aabojana09)
+ 
+  [![Ahmed Wazzuf Page](https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg/)](https://wuzzuf.net/me/ahmedmhassaan)
+ 
+ [![Ahmed Resume Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/curriculum.svg)]( https://drive.google.com/file/d/1WBXmry_1V7pBeRsiUOO1M-wJ-nRthHb4/view?usp=sharing)
+ 
+ 
+
+ 
+ 
+
+ 
 
