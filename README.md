@@ -3,7 +3,7 @@
 * [Our Team](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#by)
 * [SuperVisors](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#revision-by)
 * [How To Use Our App](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#how-to-use)
-* [Project Structure](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#project-structure)
+* [Project Structure](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#project-structure-)
 * [Tools](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#tools)
 * [Documentation Files](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#last-updated-Files)
 * [Android Source Code](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#android-source-code)
