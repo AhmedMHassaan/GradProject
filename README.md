@@ -131,7 +131,7 @@
  
  ### Conacts :
  <a href="https://www.facebook.com/AhmedMHassaan12/">
-  <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg" width="25" height="20" alt = "Facebook Page" />
+  <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg"  alt = "Facebook Page" />
    </a>
   
   
