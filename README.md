@@ -8,7 +8,7 @@
 * [Documentation Files](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#last-updated-Files)
 * [Android Source Code](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#android-source-code)
 * [Download](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#download-app)
-* [Conacts](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#conacts)
+* [Conacts](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#conacts-)
 * [Liecene](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#)
 * [Introduction](https://github.com/AhmedMHassaan/GradProject/blob/main/README.md#introduction)
 
@@ -134,26 +134,21 @@
  
   
   
- <a href="https://www.linkedin.com/in/ahmedmhassaan/" target="_blank">
-         <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/linkedin.svg" width="20" height="20" alt = "LinkedIn Page" />
-      </a>
-                             
- 
- 
-  
-  [![Ahmed  Page]()](https://www.facebook.com/AhmedMHassaan12/)]()
- 
+<a href="https://www.linkedin.com/in/ahmedmhassaan/" target="_blank">
+   <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/linkedin.svg" width="20" height="20" alt = "LinkedIn Page" />
+   </a>
+           
  
 <a href="https://www.instagram.com/ahmedmohamedhassaan/" target="_blank">
-         <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/instagram.svg" width="20" height="20" alt = "Instgram Page" />
+ <img src="https://github.com/AhmedMHassaan/GradProject/blob/main/Images/instagram.svg" width="20" height="20" alt = "Instgram Page" />
       </a>
  
  
  
  
- <a href="https://mostaql.com/u/aabojana09" target="_blank">
-         <img src="https://mostaql.hsoubcdn.com/public/assets/cards/facebook@2x.png" width="20" height="20" alt = "Mostaql Page" />
-      </a>
+<a href="https://mostaql.com/u/aabojana09" target="_blank">
+ <img src="https://mostaql.hsoubcdn.com/public/assets/cards/facebook@2x.png" width="20" height="20" alt = "Mostaql Page" />
+   </a>
  
  
  
@@ -161,9 +156,9 @@
   
  
  
- <a href="https://wuzzuf.net/me/ahmedmhassaan" target="_blank">
-         <img src="https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg" width="20" height="20" alt = "Wazzuf Page" />
-      </a>
+<a href="https://wuzzuf.net/me/ahmedmhassaan" target="_blank">
+   <img src="https://s3-eu-west-1.amazonaws.com/wuzzuf/files/company_logo/WUZZUF-Egypt-15061-1576673455-og.jpg" width="20" height="20" alt = "Wazzuf Page" />
+</a>
  
  
  <a href="https://drive.google.com/file/d/1WBXmry_1V7pBeRsiUOO1M-wJ-nRthHb4/view?usp=sharing" target="_blank">
