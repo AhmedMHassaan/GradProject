@@ -1,4 +1,11 @@
 
+## Introducion
+<b>Candle App</b> is project for making reading easier by doing some automation Procrss Like:<br>
+* Generating Mind Map for texts and books
+* Summarize text and books
+* Generating <b>   [WorkCloud](https://boostlabs.com/blog/what-are-word-clouds-value-simple-visualizations/) 
+ 
+
 [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)
 <!-- [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/icons8-github.svg)](https://github.com/AhmedMHassaan/GradProject/) -->
 
@@ -16,7 +23,9 @@
 * [Dr/ Safynaz Abdelfattah  ](https://www.facebook.com/safynaz.elfattah)
 
 
-
+### How To Use:
+  [![Splash Page]https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg)](https://github.com/AhmedMHassaan/GP/blob/main/Grad%20Work/v3/Hassaan/UI%20Screen/1.jpg)
+  
 
 ### Project Structue :
 - `Android App` For End User 
