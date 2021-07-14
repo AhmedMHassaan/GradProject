@@ -111,7 +111,7 @@
 
  
  ### Download App:
- [Download](https://github.com/AhmedMHassaan/CandleApp/contributors/master/Aplication/Candle%20App.apk)
+ [Download](https://raw.githubusercontent.com/AhmedMHassaan/CandleApp/master/Aplication/Candle%20App.apk?token=AJYGCBXJMISYBTAXHUF3WXTA5ZHXM)
 ### Project Structure :
 - `Android App` For End-User 
 - [`API` For Connecting between our project component and database]()
