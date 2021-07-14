@@ -110,7 +110,7 @@
 
 
 ### Project Structure :
-- `Android App` For End User 
+- `Android App` For End-User 
 - [`API` For Connecting between our project component and database]()
 <hr />
 
