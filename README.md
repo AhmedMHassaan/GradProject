@@ -21,7 +21,7 @@
 <b>Candle App</b> is project for making reading easier by doing some automation Procrss Like:<br>
 * Generating Mind Map for texts and books
 * Summarize text and books
-* Generating <b>   [WorkCloud](https://boostlabs.com/blog/what-are-word-clouds-value-simple-visualizations/) 
+* Generating <b>   [Word Cloud](https://boostlabs.com/blog/what-are-word-clouds-value-simple-visualizations/) 
  
 
 [![Ahmed Facebook Page](https://github.com/AhmedMHassaan/GradProject/blob/main/Images/facebook.svg)](https://www.facebook.com/AhmedMHassaan12/)
